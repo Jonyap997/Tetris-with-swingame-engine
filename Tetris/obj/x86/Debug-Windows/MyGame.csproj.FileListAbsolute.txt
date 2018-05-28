@@ -1,0 +1,234 @@
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\animations\startup.txt
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\bundles\splash.txt
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\fonts\arial.ttf
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\fonts\cour.ttf
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\fdFile.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\fdFolder.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\Swinburne.jpg
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\images\SwinGameAni.png
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\panels\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\sounds\error.wav
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\SwinGame.icns
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\Resources\SwinGame.ico
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\MyGame.exe
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\SwinGame.dll
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\obj\x86\Debug-Windows\MyGame.exe
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\nunit.framework.dll
+E:\computerscience\semester 2\Obect oriented programming\asdasd\ProjectTemplate\bin\Debug\nunit.framework.xml
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\animations\startup.txt
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\bundles\splash.txt
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\fonts\arial.ttf
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\fonts\cour.ttf
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\fdFile.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\fdFolder.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\Swinburne.jpg
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\images\SwinGameAni.png
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\panels\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\sounds\error.wav
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\SwinGame.icns
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\Resources\SwinGame.ico
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\MyGame.exe
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\nunit.framework.dll
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\SwinGame.dll
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\bin\Debug\nunit.framework.xml
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+G:\computerscience\semester 2\Obect oriented programming\week2\code\ProjectTemplate\obj\x86\Debug-Windows\MyGame.exe
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\obj\x86\Debug-Windows\MyGame.exe
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\animations\startup.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\bundles\splash.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\fonts\arial.ttf
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\fonts\cour.ttf
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\fdFile.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\fdFolder.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\Swinburne.jpg
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\SwinGameAni.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\panels\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\sounds\error.wav
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\SwinGame.icns
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\SwinGame.ico
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\MyGame.exe
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\nunit.framework.dll
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\SwinGame.dll
+E:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\nunit.framework.xml
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\animations\startup.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\bundles\splash.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\fonts\arial.ttf
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\fonts\cour.ttf
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\fdFile.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\fdFolder.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\Swinburne.jpg
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\images\SwinGameAni.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\panels\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\sounds\error.wav
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\SwinGame.icns
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\Resources\SwinGame.ico
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\MyGame.exe
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\nunit.framework.dll
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\SwinGame.dll
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\bin\Debug\nunit.framework.xml
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+G:\computerscience\semester 2\Obect oriented programming\week3\code\ProjectTemplate\obj\x86\Debug-Windows\MyGame.exe
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\obj\x86\Debug-Windows\MyGame.exe
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\animations\startup.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\bundles\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\bundles\splash.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\fonts\arial.ttf
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\fonts\cour.ttf
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\fdFile.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\fdFolder.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Active.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Background.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Inactive.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Scroll.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\Swinburne.jpg
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\SwinGameAni.png
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\panels\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\sounds\error.wav
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\sounds\SwinGameStart.wav
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\SwinGame.icns
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\SwinGame.ico
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\MyGame.exe
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\nunit.framework.dll
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\SwinGame.dll
+G:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\nunit.framework.xml
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\animations\startup.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\bundles\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\bundles\splash.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\fonts\arial.ttf
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\fonts\cour.ttf
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\fdFile.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\fdFolder.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Active.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Background.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\Swinburne.jpg
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\images\SwinGameAni.png
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\panels\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\sounds\error.wav
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\SwinGame.icns
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\Resources\SwinGame.ico
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\MyGame.exe
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\nunit.framework.dll
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\SwinGame.dll
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\bin\Debug\nunit.framework.xml
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+E:\computerscience\semester 2\Obect oriented programming\week3\code\pass task9\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\animations\startup.txt
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\bundles\splash.txt
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\fdFile.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\fdFolder.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\sounds\error.wav
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\SwinGame.icns
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\Resources\SwinGame.ico
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\MyGame.exe
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\nunit.framework.dll
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\SwinGame.dll
+C:\Users\황채현\Desktop\Oop-Tetris\Tetris\bin\Debug\nunit.framework.xml
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\animations\startup.txt
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\bundles\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\bundles\splash.txt
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\arial.ttf
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\cour.ttf
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\fdFile.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\fdFolder.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Active.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Background.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\Swinburne.jpg
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\SwinGameAni.png
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\panels\FileDialog.txt
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\sounds\error.wav
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\SwinGame.icns
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\SwinGame.ico
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\MyGame.exe
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\nunit.framework.dll
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\SwinGame.dll
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\nunit.framework.xml
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+E:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\obj\x86\Debug-Windows\MyGame.exe
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\animations\startup.txt
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\bundles\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\bundles\splash.txt
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\arial.ttf
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\cour.ttf
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\fdFile.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\fdFolder.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Active.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Background.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Inactive.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_Scroll.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\Swinburne.jpg
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\images\SwinGameAni.png
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\panels\FileDialog.txt
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\sounds\error.wav
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\sounds\SwinGameStart.wav
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\SwinGame.icns
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\Resources\SwinGame.ico
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\MyGame.exe
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\nunit.framework.dll
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\SwinGame.dll
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\bin\Debug\nunit.framework.xml
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+G:\computerscience\semester 2\Obect oriented programming\Oop-Tetris\Tetris\obj\x86\Debug-Windows\MyGame.exe
